@@ -8,7 +8,7 @@ import json
 from tasks_database import TASKS
 
 # КОНФИГУРАЦИЯ
-GROUP_TOKEN = 'vk1.a.U55bi2V1xVgwCZDsXAWPiC_6grS-v98AgwmjCrUAD0-QrxXOkR_eG2-Dub2XnEQCJ7d_zn5q2KM_R_tusJwuo_EeIyh71U2bGuytK5x5gtzFuteho0HAG7-62rVzmHMm20sRryQn2JY9sbDFalf-ksqpGA2dCXF3Jq6gwbuA6Parud9Q8Xvw_GO67KqwN2IUDnM8nMHMFCU1pckQiV90mQ'
+GROUP_TOKEN = 'vk1.a.JMTxt7apky6Z1kUnEilWNwk8unNEl0MBscyMN584_JYz0VZ6DeNwA4e25ZzxfVMOTfIv2s8K8FE13a0UWojWK_FwcchvIEVed50px-qXQYSexg5qrdhX7qQd9NUNT4WMWEv83eEdGP-ZZNmJyZU3wD01pusl9paXKYNrUgxm0BMfbFB0RrQfUXeezZP8r2vPtoGcFjpr8rPzeiGAbHkvMg'
 ADMIN_IDS = [424837142]  # ID администраторов
 
 # Опыт за задания в зависимости от отдела
